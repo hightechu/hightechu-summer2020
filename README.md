@@ -22,6 +22,8 @@ Welcome to the HighTechU Academy! This GitHub repository will be your main entry
 ## Important Links
 
 * [Academy Slack - hightechuacademy](https://hightechuacademy.slack.com/)
+* [Academy MURAL Workspace](https://app.mural.co/invitation/team/hightechu8022?code=70a3d7e0b12b455082f2dba18bc24471&sender=andrew5384)
+* [HighTechU TinkerCAD Class](https://www.tinkercad.com/joinclass/LMX28FG7ZT7Q)
 * [HighTechU GitHub](https://github.com/hightechu/) 
 
 ## Resources
