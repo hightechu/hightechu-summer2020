@@ -38,4 +38,4 @@ By the end of today's session, students should be able to...
 ## Resources
 
 * Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-* Another Resources: URL to Resource
+* Another Resource: [URL to Resource](link)
