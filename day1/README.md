@@ -10,7 +10,7 @@
 By the end of today's session, students should be able to...
 * Add a specific outcomes
 * Add another specific outcomes
-*
+* ...
 * Add a final specific outcomes
 
 ## Class Outline
