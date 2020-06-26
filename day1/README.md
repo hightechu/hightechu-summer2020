@@ -1,6 +1,6 @@
 # HighTechU Summer 2020
 
-**HighTechU Summer 2020 - Course Material - Day 1 - {Brief Description}**
+**HighTechU Summer 2020 - Course Material - Day X - {Brief Description}**
 
 ## Slides
 
