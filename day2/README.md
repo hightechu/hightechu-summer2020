@@ -1,6 +1,6 @@
 # HighTechU Summer 2020
 
-**HighTechU Summer 2020 - Course Material - Day X - {Brief Description}**
+**HighTechU Summer 2020 - Course Material - Day 2 - {Brief Description}**
 
 ## Slides
 
@@ -17,9 +17,13 @@ By the end of today's session, students should be able to...
 
 |Time|Activity|
 |:---|:---|
-|10:00am - X:XXam| First Activity Description|
-|12:00-12:30pm|Lunch|
-|X:XXpm - 4:00pm| Final Activity Description|
+|10:00-10:30| Daily Checkin and Team Formation| 
+|10:30-12:30| Remote Teamwork Workshop with Dr. Damien| 
+|**12:30-1:00**|**Lunch**|
+|1:00-1:30| weStar Collaboration Activity|
+|1:30-2:00| Project Selection Discussion|
+|2:00-3:45||
+|3:45-4:00|Daily Wrapup|
 
 ### Important Activity Details
 

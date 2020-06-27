@@ -1,6 +1,6 @@
 # HighTechU Summer 2020
 
-**HighTechU Summer 2020 - Course Material - Day X - {Brief Description}**
+**HighTechU Summer 2020 - Course Material - Day 1 - {Brief Description}**
 
 ## Slides
 
@@ -17,9 +17,18 @@ By the end of today's session, students should be able to...
 
 |Time|Activity|
 |:---|:---|
-|10:00am - X:XXam| First Activity Description|
-|12:00-12:30pm|Lunch|
-|X:XXpm - 4:00pm| Final Activity Description|
+|10:00-10:30| Welcome Ceremony|
+|10:30-11:00|Icebreakers/Team Building|
+|11:00-11:15|Importance of Communication|
+|11:15-11:30|`Screen Break`|
+|11:30-12:30|Workshop Rotation 1|
+|**12:30-1:00**|**Lunch**|
+|1:00-2:00|Workshop Rotation 2|
+|*2:00-2:15*|`Screen Break`|
+|2:00-3:00|Workshop Rotation 3|
+|*3:00-3:15*|`Screen Break`|
+|3:15-3:45|Social Session|
+|3:45-4:00|Daily Wrapup|
 
 ### Important Activity Details
 

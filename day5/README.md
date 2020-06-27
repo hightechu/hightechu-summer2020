@@ -1,6 +1,6 @@
 # HighTechU Summer 2020
 
-**HighTechU Summer 2020 - Course Material - Day X - {Brief Description}**
+**HighTechU Summer 2020 - Course Material - Day 5 - Pitch & Demo Day**
 
 ## Slides
 
@@ -17,9 +17,12 @@ By the end of today's session, students should be able to...
 
 |Time|Activity|
 |:---|:---|
-|10:00am - X:XXam| First Activity Description|
-|12:00-12:30pm|Lunch|
-|X:XXpm - 4:00pm| Final Activity Description|
+|10:00-10:10|Daily Checkin|
+|10:10-12:30|Pitch/Demo Prep|
+|**12:30-1:00**|**Lunch**|
+|1:00-2:30|Pitch/Demo Prep|
+|2:30-3:30|Pitch & Demo|
+|3:45-4:00|Closing Ceremonies|
 
 ### Important Activity Details
 
