@@ -17,15 +17,44 @@ By the end of today's session, students should be able to...
 
 |Time|Activity|
 |:---|:---|
-|10:00-10:10|Daily Checkin|
-|10:10-12:30||
+|10:00-10:30|The ExperienCE|
+|10:30-11:15|Testing and Validation|
+|*11:15-11:30*| `Screen Break`|
+|11:30-12:30| Design Session 2|
 |**12:30-1:00**|**Lunch**|
-|1:00-3:45||
+|01:00-01:30|Industry Talk|
+|01:30-02:00| Lean Canvas|
+|*02:00-02:15*| `Screen Break`|
+|02:15-03:15| Design Session 3|
+|*03:15-03:30*| `Screen Break`|
+|03:30-03:45| Social Session|
 |3:45-4:00|Daily Wrapup|
 
 ### Important Activity Details
 
-* Insert Details Here
+#### The ExperienCE
+* Presentation by a current ECE student, Poorna Chander. 
+
+#### Testing and Validation
+* Introduce the concept of testing a design - Sargun - activity based session - use designs created by student teams for activities
+
+#### Design Session 2
+* Student teams improve their design based on test results 
+
+#### Industry Talk
+* Presentation by Dr. Babak Manouchehrinia, currently working with CfAR.
+
+#### Lean Canvas
+* Introduce the concept of Lean Canvas to student teams - by Venish
+
+#### Design Session 3
+* Student teams almost finalize their design
+
+#### Social Session
+* Fun filled activities for students by Aniruddh
+
+#### Daily Wrap up
+* 3 things that students learned - 2 questions - 1 thing that is unclear
 
 
 ## Homework
