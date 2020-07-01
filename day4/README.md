@@ -20,9 +20,9 @@ By the end of today's session, students should be able to...
 |10:00-10:30|The ExperienCE|
 |10:30-11:15|Testing and Validation|
 |*11:15-11:30*| `Screen Break`|
-|11:30-12:30| Design Session 2|
-|**12:30-1:00**|**Lunch**|
-|01:00-01:30|Industry Talk|
+|11:30-12:00| Industry Talk||
+|**12:00-12:30**|**Lunch**|
+|12:30-01:30|Design Session 2|
 |01:30-02:00| Lean Canvas|
 |*02:00-02:15*| `Screen Break`|
 |02:15-03:15| Design Session 3|
@@ -39,11 +39,11 @@ By the end of today's session, students should be able to...
 * Answer questions from previous days
 * Introduce the concept of testing a design - Sargun - activity based session - use designs created by student teams for activities
 
-#### Design Session 2
-* Student teams improve their design based on test results 
-
 #### Industry Talk
 * Presentation by Dr. Babak Manouchehrinia, currently working with CfAR.
+
+#### Design Session 2
+* Student teams improve their design based on test results 
 
 #### Lean Canvas
 * Introduce the concept of Lean Canvas to student teams - by Venish
