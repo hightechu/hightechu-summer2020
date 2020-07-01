@@ -32,7 +32,16 @@ By the end of today's session, students should be able to...
 
 ### Important Activity Details
 
-* Insert Details Here
+* Welcome Ceremony
+- Territory Acknowledgement by Andrew
+- Welcome Address Andrew
+- About HighTechU & inauguration by Dr. Ulrike Stege
+- About the Academy by Ilamparithi
+
+* Icebreakers/Team Building by Andrew
+
+* Importance of Communication by Mateo
+
 
 
 ## Homework
