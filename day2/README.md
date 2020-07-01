@@ -17,7 +17,7 @@ By the end of today's session, students should be able to...
 
 |Time|Activity|
 |:---|:---|
-|10:00-10:30| Alum Speak|
+|10:00-10:30| The ExperienCE|
 |10:30-12:30| Remote Teamwork Workshop with Dr. Damien| 
 |**12:30-1:00**|**Lunch**|
 |1:00-2:00| Workshop Rotation 3|
@@ -29,6 +29,9 @@ By the end of today's session, students should be able to...
 |3:45-4:00|Daily Wrapup|
 
 ### Important Activity Details
+
+#### The ExperienCE
+* Amy Sun will share her experiences about the ECE program.
 
 #### Workshop Rotation 3
 * Answering questions from previous day by the team
