@@ -22,7 +22,7 @@ By the end of today's session, students should be able to...
 |*11:15-11:30*|`Screen Break`|
 |11:30-12:30|Brainstorming & Project selection|
 |**12:30-1:00**|**Lunch**|
-|1:00-1:30|Researcher view|
+|1:00-1:30|The ExperienCE|
 |1:30-2:00|MVP oriented Design|
 |*02:00-02:15*|`Screen Break`|
 |2:15-3:15|Design Session 1|
@@ -43,7 +43,7 @@ By the end of today's session, students should be able to...
 * Introducing Brainstorming - 15 minutes - by Sargun 
 * Student teams brainstorm and choose a topic - implement learnings from previous days
 
-#### Researcher View
+#### The ExperienCE
 * A talk by Ms. Narges Attarmoghaddam, a grad student in ECE. Narges is also the Vice-Chair of IEEE Women in Engineering. 
 
 #### MVP oriented Design
