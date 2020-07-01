@@ -33,11 +33,11 @@ By the end of today's session, students should be able to...
 ### Important Activity Details
 
 * Welcome Ceremony
-* Territory Acknowledgement by Andrew
-- Welcome Address Andrew
-- About HighTechU by Dr. Ulrike Stege
-- Inauguration of the academy by Dr. Ulrike Stege - turns on a circuit that reads "Welcome to ECE Academy 2020" - to be prepared by Sargun
-- About the Academy by Ilamparithi
+#### Territory Acknowledgement by Andrew
+#### Welcome Address Andrew
+#### About HighTechU by Dr. Ulrike Stege
+#### Inauguration of the academy by Dr. Ulrike Stege - turns on a circuit that reads "Welcome to ECE Academy 2020" - to be prepared by Sargun
+#### About the Academy by Ilamparithi
 
 * Icebreakers/Team Building by Andrew
 
