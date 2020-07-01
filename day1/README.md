@@ -26,8 +26,8 @@ By the end of today's session, students should be able to...
 |1:00-2:00|Workshop Rotation 2|
 |*2:00-2:15*|`Screen Break`|
 |2:15-3:15|Workshop Rotation 3|
-|*3:00-3:15*|`Screen Break`|
-|3:15-3:45|Social Session|
+|*3:15-3:30*|`Screen Break`|
+|3:30-3:45|Social Session|
 |3:45-4:00|Daily Wrapup|
 
 ### Important Activity Details
@@ -46,10 +46,11 @@ By the end of today's session, students should be able to...
 #### Workshop Rotation 1 
 * Introducing TinkerCAD Circuits by Aniruddh - focus on circuit diagram, breadboard, series & parallel connections, measurements, breadboard, LED circuits - 15 minutes
 
-* Workshop Rotation 2
+#### Workshop Rotation 2
 * Introducing sensors by Venish - why sensors, datasheets, various sensors & applications, one example - 15 minutes 
 
-*
+#### Workshop Rotation 3
+* Introducing Arduino programming by Sargun - ADC 
 
 ## Homework
 
