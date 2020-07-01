@@ -33,7 +33,7 @@ By the end of today's session, students should be able to...
 ### Important Activity Details
 
 * Welcome Ceremony
-- Territory Acknowledgement by Andrew
+** Territory Acknowledgement by Andrew
 - Welcome Address Andrew
 - About HighTechU & inauguration by Dr. Ulrike Stege
 - About the Academy by Ilamparithi
