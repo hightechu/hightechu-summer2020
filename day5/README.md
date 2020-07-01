@@ -37,11 +37,11 @@ By the end of today's session, students should be able to...
 * 10 minutes for demo & pitch
 
 #### Pitch & Demo
-* Each student team gets 10 minutes for pitching & demonstrating & 5 minutes for questions
+* Each student team gets 10 minutes for pitching & demonstrating. 5 minutes for questions
 
 #### Valedictory Ceremony
-* Address by a couple of guest speakers
-* A couple of students sharing experiences
+* Addresses by a couple of guest speakers
+* A few students sharing their experiences
 * Vote of Thanks by Andrew or Ilamparithi
 
 
