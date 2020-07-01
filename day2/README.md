@@ -34,6 +34,9 @@ By the end of today's session, students should be able to...
 * Answering questions from previous day by the team
 * Introducing Arduino by Sargun - Digital I/O and Analog Input - presentation for 15 minutes & then activity - integrate learnings from day 1
 
+#### Industry Talk
+* Presentation by Mr.Charndeep Bhangoo, currently working in Calgary. A former student of ECE at UVic.
+
 #### weStar Collaboration Activity
 * By Andrew
 
