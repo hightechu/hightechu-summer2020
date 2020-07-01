@@ -42,22 +42,22 @@ By the end of today's session, students should be able to...
 #### Icebreakers/Team Building by Andrew
 
 #### Importance of Communication by Mateo
-* Presentation for 15 minutes & an activity for 30 minutes
+* Presentation for 15 minutes & then activity
 
 #### Workshop Rotation 1 
-* Introducing TinkerCAD Circuits by Aniruddh - focus on circuit diagram, breadboard, series & parallel connections, measurements, breadboard, LED circuits - presentation for 15 minutes & an activity for 30 minutes
+* Introducing TinkerCAD Circuits by Aniruddh - focus on circuit diagram, breadboard, series & parallel connections, measurements, breadboard, LED circuits - presentation for 15 minutes & then activity
 
 #### Workshop Rotation 2
-* Introducing sensors by Venish - why sensors, datasheets, various sensors & applications, one example - presentation for 15 minutes & an activity for 30 minutes
+* Introducing sensors by Venish - why sensors, datasheets, various sensors & applications, one example - presentation for 15 minutes & then activity
 
 #### Industry Talk
 * Presentation by Sergio, Engineering Lead of Ergonomyx Tech. Canada
 
 ##### Social Session
-* Activity for students to have some fun by Sargun
+* Fun filled activities for students by Sargun
 
 ##### Daily Wrapup
-* 3 things that they learned - 2 questions - 1 thing that was unclear 
+* 3 things that students learned - 2 questions - 1 thing that was unclear 
 
 
 ## Homework
