@@ -32,18 +32,18 @@ By the end of today's session, students should be able to...
 
 ### Important Activity Details
 
-* Welcome Ceremony
-#### Territory Acknowledgement by Andrew
-#### Welcome Address Andrew
-#### About HighTechU by Dr. Ulrike Stege
-#### Inauguration of the academy by Dr. Ulrike Stege - turns on a circuit that reads "Welcome to ECE Academy 2020" - to be prepared by Sargun
-#### About the Academy by Ilamparithi
+#### Welcome Ceremony
+* Territory Acknowledgement by Andrew
+* Welcome Address Andrew
+* About HighTechU by Dr. Ulrike Stege
+* Inauguration of the academy by Dr. Ulrike Stege - turns on a circuit that reads "Welcome to ECE Academy 2020" - to be prepared by Sargun
+* About the Academy by Ilamparithi
 
-* Icebreakers/Team Building by Andrew
+#### Icebreakers/Team Building by Andrew
 
-* Importance of Communication by Mateo
+#### Importance of Communication by Mateo
 
-* Workshop Rotation 1 
+#### Workshop Rotation 1 
 * Introducing TinkerCAD Circuits by Aniruddh - focus on circuit diagram, breadboard, series & parallel connections, measurements, breadboard, LED circuits - 15 minutes
 
 * Workshop Rotation 2
