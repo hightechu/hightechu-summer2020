@@ -36,6 +36,7 @@ By the end of today's session, students should be able to...
 * Presentation by a current ECE student, Poorna Chander. 
 
 #### Testing and Validation
+* Answer questions from previous days
 * Introduce the concept of testing a design - Sargun - activity based session - use designs created by student teams for activities
 
 #### Design Session 2
@@ -54,7 +55,7 @@ By the end of today's session, students should be able to...
 * Fun filled activities for students by Aniruddh
 
 #### Daily Wrap up
-* 3 things that students learned - 2 questions - 1 thing that is unclear
+* Collect feedback about the program from students
 
 
 ## Homework
