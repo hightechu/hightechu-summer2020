@@ -8,10 +8,10 @@
 
 ## Learning Outcomes
 By the end of today's session, students should be able to...
-* Add a specific outcomes
-* Add another specific outcomes
-* ...
-* Add a final specific outcomes
+* Create test procedures for testing a feature in the design - outcome for the session "Testing and Validation"
+* Validate their design from previous day by performing relevant tests - outcome for the session "Testing and Validation"
+* Prepare a lean canvas model for one's project - outcome for the session "Lean Canvas"
+* Provide feedback about the pilot program - outcome for the session "Daily Wrap up"
 
 ## Class Outline
 
