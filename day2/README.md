@@ -8,10 +8,12 @@
 
 ## Learning Outcomes
 By the end of today's session, students should be able to...
-* Add a specific outcomes
-* Add another specific outcomes
-* ...
-* Add a final specific outcomes
+* Answer queries from previous day - outcome for the session "Workshop Rotation 3"
+* By writing Text based code, configure Digital I/O and Analog input on an Arduino - outcome for the session "Workshop Rotation 3"
+* Interface an Arduino with external circuit elements - outcome for the session "Workshop Rotation 3"
+* Recollect names of all participants in the Acadmey
+* Demonstrate respectful communication and attentiveness while listening
+* Ask questions to peers and instructors 
 
 ## Class Outline
 
