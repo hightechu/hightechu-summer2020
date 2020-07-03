@@ -7,11 +7,15 @@
 * [Link to Slides](Link)
 
 ## Learning Outcomes
-By the end of today's session, students should be able to...
-* Add a specific outcomes
-* Add another specific outcomes
-* ...
-* Add a final specific outcomes
+By the end of day 1, students should be able to...
+* Address everyone in the Academy by one's name 
+* Listen patiently and attentively - outcome from the session "Importance of Communication" 
+* Disagree in a respectful manner - outcome from the session "Importance of Communication"
+* Read a simple circuit diagram and wire it using TinkerCAD - outcome from the session "Workshop Rotation 1"
+* Measure voltages and currents in a circuit -  outcome from the session "Workshop Rotation 1"
+* Build simple circuits using sensors (example: position sensor or gas sensor based circuit) - outcome from the session "Workshop Rotation 2"
+* Build a circuit integrating sensors and LEDs/Motors - outcome from the session "Workshop Rotation 2"
+* Express their opinion without inhibition
 
 ## Class Outline
 
