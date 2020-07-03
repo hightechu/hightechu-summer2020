@@ -7,11 +7,11 @@
 * [Link to Slides](Link)
 
 ## Learning Outcomes
-By the end of today's session, students should be able to...
-* Add a specific outcomes
-* Add another specific outcomes
-* ...
-* Add a final specific outcomes
+By the end of day 3, stuents should be able to...
+* Establish communication between Arduino and external component using a communication protocol - outcome for the session "Workshop Rotation 4"
+* Brainstorm project ideas before selecting one - outcome for the session "Brainstorming & Project Selection"
+* Identify a Minimum Viable Product for one's project - outcome for the session "MVP oriented design" 
+* Recollect some points about ECE that were shared by professionals and students - outcome for the session "Daily Wrap up"
 
 ## Class Outline
 
@@ -56,7 +56,7 @@ By the end of today's session, students should be able to...
 * Fun filled activities for students by Venish
 
 #### Daily Wrap up
-* 3 things that students learned - 2 questions - 1 thing that is unclear
+* 3 things that students learned about ECE - 2 questions - 1 thing that is unclear
 
 ## Homework
 
