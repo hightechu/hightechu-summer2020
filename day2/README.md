@@ -18,12 +18,12 @@ By the end of today's session, students should be able to...
 |Time|Activity|
 |:---|:---|
 |10:00-10:30| The ExperienCE|
-|10:30-12:30| Remote Teamwork Workshop with Dr. Damien| 
-|**12:30-1:00**|**Lunch**|
-|1:00-2:00| Workshop Rotation 3|
-|*2:00-2:15*|`Screen Break`|
-|2:15-2:45| Industry Talk|
-|2:45-3:15| weStar Collaboration Activity|
+|10:30-11:30| Workshop Rotation 3| 
+|11:30-12:00| weStar Collaboration Activity|
+|**12:00-12:30**|**Lunch**|
+|12:30-2:30| Remote Teamwork Workshop with Dr. Damien|
+|*2:30-2:45*|`Screen Break`|
+|2:45-3:15| Industry Talk|
 |*3:15-3:30*|`Screen Break`|
 |3:30-3:45|Social Session|
 |3:45-4:00|Daily Wrapup|
@@ -37,11 +37,11 @@ By the end of today's session, students should be able to...
 * Answering questions from previous day by the team
 * Introducing Arduino by Sargun - Digital I/O and Analog Input - presentation for 15 minutes & then activity - integrate learnings from day 1
 
-#### Industry Talk
-* Presentation by Mr.Charndeep Bhangoo, currently working in Calgary. A former student of ECE at UVic.
-
 #### weStar Collaboration Activity
 * By Andrew
+
+#### Industry Talk
+* Presentation by Mr.Charndeep Bhangoo, currently working in Calgary. A former student of ECE at UVic.
 
 #### Social session 
 * Fun filled activities for students by Mateo
