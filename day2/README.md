@@ -21,9 +21,11 @@ By the end of today's session, students should be able to...
 |:---|:---|
 |10:00-10:30| The ExperienCE|
 |10:30-11:30| Workshop Rotation 3| 
-|11:30-12:00| weStar Collaboration Activity|
-|**12:00-12:30**|**Lunch**|
-|12:30-2:30| Remote Teamwork Workshop with Dr. Damien|
+|*11:30-11:45*|`Screen Break`|
+|11:45-12:15| weStar Collaboration Activity|
+|**12:15-12:45**|**Lunch**|
+|12:45-01:30| Workshop Rotation 4|
+|01:30-02:30|Brainstorming & Project selection|
 |*2:30-2:45*|`Screen Break`|
 |2:45-3:15| Industry Talk|
 |*3:15-3:30*|`Screen Break`|
@@ -42,11 +44,18 @@ By the end of today's session, students should be able to...
 #### weStar Collaboration Activity
 * By Andrew
 
+#### Workshop Rotation 4
+* Introduce communication protocol with Arduino by Mateo - presentation for 15 minutes & then activity
+
+#### Project Selection
+* Introducing Brainstorming - 15 minutes - by Aniruddh 
+* Student teams brainstorm and choose a topic - implement learnings from previous days
+
 #### Industry Talk
 * Presentation by Mr.Charndeep Bhangoo, currently working in Calgary. A former student of ECE at UVic.
 
 #### Social session 
-* Fun filled activities for students by Mateo
+* Fun filled activities for students by Venish
 
 #### Daily Wrap up
 * 3 things students have learned - 2 questions - 1 thing that is unclear
