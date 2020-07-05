@@ -22,17 +22,17 @@ By the end of day 1, students should be able to...
 |Time|Activity|
 |:---|:---|
 |10:00-10:30| Welcome Ceremony| 
-|10:30-11:00|Icebreakers/Team Building| Andrew|
+|10:30-11:00|Icebreakers/Team Building|
 |11:00-11:15|`Screen Break`|
-|11:15-12:00|Importance of Communication| Mateo|
+|11:15-12:00|Importance of Communication| 
 |**12:00-12:30**|**Lunch**|
-|12:30-01:30|Workshop Rotation 1| Aniruddh|
+|12:30-01:30|Workshop Rotation 1| 
 |*1:30-1:45*|`Screen Break`|
-|1:45-2:45|Workshop Rotation 2| Venish|
+|1:45-2:45|Workshop Rotation 2| 
 |*2:45-3:00*|`Screen Break`|
 |3:00-3:30|Industry Talk| 
-|3:30-3:45|Social Session| Sargun|
-|3:45-4:00|Daily Wrapup| Andrew|
+|3:30-3:45|Social Session| 
+|3:45-4:00|Daily Wrapup| 
 
 ### Important Activity Details
 
