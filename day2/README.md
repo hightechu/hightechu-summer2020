@@ -15,7 +15,7 @@ By the end of today's session, students should be able to...
 * Demonstrate respectful communication and attentiveness while listening
 * Ask questions to peers and instructors 
 
-## Class Outline
+## Class Outline for day 2 (Tuesday)
 
 |Time|Activity|
 |:---|:---|
