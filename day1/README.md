@@ -17,22 +17,22 @@ By the end of day 1, students should be able to...
 * Build a circuit integrating sensors and LEDs/Motors - outcome from the session "Workshop Rotation 2"
 * Express their opinion without inhibition
 
-## Class Outline
+## Class Outline for Day 1 (Monday)
 
 |Time|Activity|
 |:---|:---|
-|10:00-10:30| Welcome Ceremony|
-|10:30-11:00|Icebreakers/Team Building|
+|10:00-10:30| Welcome Ceremony| 
+|10:30-11:00|Icebreakers/Team Building| Andrew|
 |11:00-11:15|`Screen Break`|
-|11:15-12:00|Importance of Communication|
+|11:15-12:00|Importance of Communication| Mateo|
 |**12:00-12:30**|**Lunch**|
-|12:30-01:30|Workshop Rotation 1|
+|12:30-01:30|Workshop Rotation 1| Aniruddh|
 |*1:30-1:45*|`Screen Break`|
-|1:45-2:45|Workshop Rotation 2|
+|1:45-2:45|Workshop Rotation 2| Venish|
 |*2:45-3:00*|`Screen Break`|
-|3:00-3:30|Industry Talk|
-|3:30-3:45|Social Session|
-|3:45-4:00|Daily Wrapup|
+|3:00-3:30|Industry Talk| 
+|3:30-3:45|Social Session| Sargun|
+|3:45-4:00|Daily Wrapup| Andrew|
 
 ### Important Activity Details
 
