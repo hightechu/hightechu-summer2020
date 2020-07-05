@@ -13,7 +13,7 @@ By the end of day 3, stuents should be able to...
 * Identify a Minimum Viable Product for one's project - outcome for the session "MVP oriented design" 
 * Recollect some points about ECE that were shared by professionals and students - outcome for the session "Daily Wrap up"
 
-## Class Outline
+## Class Outline for Day 3 (Wednesday)
 
 |Time|Activity|
 |:---|:---|
