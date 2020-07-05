@@ -18,9 +18,7 @@ By the end of day 3, stuents should be able to...
 |Time|Activity|
 |:---|:---|
 |10:00-10:30|Industry Talk|
-|10:30-11:15|Workshop Rotation 4|
-|*11:15-11:30*|`Screen Break`|
-|11:30-12:30|Brainstorming & Project selection|
+|10:30-12:30| Remote Teamwork Workshop with Dr. Damien|
 |**12:30-1:00**|**Lunch**|
 |1:00-1:30|The ExperienCE|
 |1:30-2:00|MVP oriented Design|
@@ -35,13 +33,8 @@ By the end of day 3, stuents should be able to...
 #### Industry Talk
 * A presentation from Ms. Courtney Parker, an alumnus from ECE UVic. Courtney is currently working in Germany
 
-#### Workshop Rotation 4
-* Answer questions from previous days by the team
-* Introduce communication protocol with Arduino by Mateo - presentation for 15 minutes & then activity
-
-#### Project Selection
-* Introducing Brainstorming - 15 minutes - by Sargun 
-* Student teams brainstorm and choose a topic - implement learnings from previous days
+#### Teamwork Workshop
+* Two hour session by Dr. Dana Damien
 
 #### The ExperienCE
 * A talk by Ms. Narges Attarmoghaddam, a grad student in ECE. Narges is also the Vice-Chair of IEEE Women in Engineering. 
@@ -53,7 +46,7 @@ By the end of day 3, stuents should be able to...
 * Student teams start working on their project with the goal to create an MVP by the end of the session 
 
 #### Social Session 
-* Fun filled activities for students by Venish
+* Fun filled activities for students by Mateo
 
 #### Daily Wrap up
 * 3 things that students learned about ECE - 2 questions - 1 thing that is unclear
