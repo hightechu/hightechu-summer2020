@@ -8,13 +8,13 @@
 
 ## Learning Outcomes
 By the end of day 1, students should be able to...
-* Address everyone in the Academy by one's name 
-* Listen patiently and attentively - outcome from the session "Importance of Communication" 
-* Disagree in a respectful manner - outcome from the session "Importance of Communication"
-* Read a simple circuit diagram and wire it using TinkerCAD - outcome from the session "Workshop Rotation 1"
-* Measure voltages and currents in a circuit -  outcome from the session "Workshop Rotation 1"
-* Build simple circuits using sensors (example: position sensor or gas sensor based circuit) - outcome from the session "Workshop Rotation 2"
-* Build a circuit integrating sensors and LEDs/Motors - outcome from the session "Workshop Rotation 2"
+* Address everyone in the Academy by Name
+* Listen patiently and attentively (RE: "Importance of Communication") 
+* Disagree in a respectful manner (RE: "Importance of Communication")
+* Read a simple circuit diagram and wire it using TinkerCAD (RE: "Workshop Rotation 1")
+* Measure voltages and currents in a circuit (RE: "Workshop Rotation 1")
+* Build simple circuits using sensors (RE: "Workshop Rotation 2")
+* Build a circuit integrating sensors & LEDs/Motors (RE: "Workshop Rotation 2")
 * Express their opinion without inhibition
 
 ---
