@@ -1,6 +1,6 @@
-# HighTechU Summer 2020
+# HighTechU Summer Academy 2020
 
-**HighTechU Summer 2020 - Course Material - Day 2 - {Brief Description}**
+**HighTechU Summer Academy 2020 - Course Material - Day 2 - Team Building & Brainstorming**
 
 ## Slides
 
@@ -8,12 +8,14 @@
 
 ## Learning Outcomes
 By the end of today's session, students should be able to...
-* Answer queries from previous day - outcome for the session "Workshop Rotation 3"
-* By writing Text based code, configure Digital I/O and Analog input on an Arduino - outcome for the session "Workshop Rotation 3"
-* Interface an Arduino with external circuit elements - outcome for the session "Workshop Rotation 3"
-* Recollect names of all participants in the Acadmey
+* Answer queries from previous day (RE: "Workshop Rotation 3")
+* Configure Digital I/O and Analog input on an Arduino (RE: "Workshop Rotation 3")
+* Interface an Arduino with external circuit elements (RE: "Workshop Rotation 3")
+* Identify everyone in their Academy Project Team by Name
 * Demonstrate respectful communication and attentiveness while listening
-* Ask questions to peers and instructors 
+* Ask questions to Peers and Instructors 
+
+---
 
 ## Class Outline for Day 2 (Tuesday)
 
@@ -32,44 +34,62 @@ By the end of today's session, students should be able to...
 |3:30-3:45|Social Session|
 |3:45-4:00|Daily Wrapup|
 
-### Important Activity Details
+###  Activity Details
 
-#### The ExperienCE
-* Amy Sun will share her experiences about the ECE program.
+#### The ExperienCE (feat. Amy)
+```
+Amy Sun will share her experiences about the ECE program.
+```
 
-#### Workshop Rotation 3
-* Answering questions from previous day by the team
-* Introducing Arduino by Sargun - Digital I/O and Analog Input - presentation for 15 minutes & then activity - integrate learnings from day 1
+#### Workshop Rotation 3 (feat. Sargun)
+```
+- Day 1 follow-up
+- Introduction to Arduino (Digital I/O and Analog Input)
+- integrate learnings from day 1
+```
 
-#### weStar Collaboration Activity
-* By Andrew
+#### weStar Collaboration Activity (feat. Andrew)
+```
+Building Team Collaboration Skills with Prelude
+```
+#### Workshop Rotation 4 (feat. Mateo)
+```
+Introduction to communication protocol with Arduino
+```
 
-#### Workshop Rotation 4
-* Introduce communication protocol with Arduino by Mateo - presentation for 15 minutes & then activity
+#### Project Selection (feat. Aniruddh)
+```
+-Introduction to Brainstorming
+- Student teams brainstorm and choose a topic 
+- implement learnings from previous days
+```
 
-#### Project Selection
-* Introducing Brainstorming - 15 minutes - by Aniruddh 
-* Student teams brainstorm and choose a topic - implement learnings from previous days
-
-#### Industry Talk
+#### Industry Talk (feat. Charndeep) 
+```
 * Presentation by Mr.Charndeep Bhangoo, currently working in Calgary. A former student of ECE at UVic.
+```
 
-#### Social session 
-* Fun filled activities for students by Venish
-
-#### Daily Wrap up
+#### Social session (feat. Venish) 
+```
+Fun filled activities for students!
+```
+#### Daily Wrap up (feat. Andrew) 
+```
 * 3 things students have learned - 2 questions - 1 thing that is unclear
+```
 
-## Homework
+---
 
-* [Link to Homework](Link)
+## Daily Feedback Form
 
-## Tools
+* [Google Form](https://forms.gle/6QYUvJgdpayUTzVF9)
 
-* [Slack](https://slack.com/)
-* [Link to Another Tool](Link)
+## Important Links
+
+* [Academy Slack Workspace](https://hightechuacademy.slack.com/)
+* [Academy Zoom Room](https://uvic.zoom.us/j/96555007331?pwd=L0luTWY5ckprWTY4SDR5NHJrNk5XZz09)
+* [Academy MURAL Workspace](https://app.mural.co/t/hightechu8022)
+* [HighTechU TinkerCAD Class](https://www.tinkercad.com/joinclass/LMX28FG7ZT7Q)
+* [HighTechU GitHub](https://github.com/hightechu/hightechu-summer2020) 
 
 ## Resources
-
-* Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-* Another Resource: [URL to Resource](link)
