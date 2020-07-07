@@ -1,6 +1,6 @@
 # HighTechU Summer 2020
 
-**HighTechU Summer 2020 - Course Material - Day 1 - {Brief Description}**
+**HighTechU Summer 2020 - Course Material - Day 1 - Introduction to the ECE Academy**
 
 ## Slides
 
@@ -34,46 +34,60 @@ By the end of day 1, students should be able to...
 |3:30-3:45|Social Session| 
 |3:45-4:00|Daily Wrapup| 
 
+---
+
 ### Important Activity Details
 
 #### Welcome Ceremony
-* Territory Acknowledgement by Andrew
-* Welcome Address Andrew
-* About HighTechU by Dr. Ulrike Stege
-* Inauguration of the academy by Dr. Ulrike Stege - turns on a circuit that reads "Welcome to ECE Academy 2020" - to be prepared by Sargun
-* About the Academy by Ilamparithi
+> * Territory Acknowledgement (feat. Andrew)
+> * Welcome Address (feat. Andrew)
+> * About HighTechU (feat. Ulrike)
+> * Inauguration of the Academy (feat. Ulrike)
+> * About the ECE Academy (feat. Ilamparithi)
 
-#### Icebreakers/Team Building by Andrew
+#### Icebreakers/Team Building (feat. Andrew)
+> * Two Truths & a Lie
 
-#### Importance of Communication by Mateo
-* Presentation for 15 minutes & then activity
+#### Importance of Communication (feat. Mateo)
+> * Presentation & Activity
 
-#### Workshop Rotation 1 
-* Introducing TinkerCAD Circuits by Aniruddh - focus on circuit diagram, breadboard, series & parallel connections, measurements, breadboard, LED circuits - presentation for 15 minutes & then activity
+#### Workshop Rotation 1 (feat. Aniruddh)
+> * Introducion to TinkerCAD Circuits - Presentation & Activity 
+>    * circuit diagram, 
+>    * breadboard, 
+>    * series & parallel connections, 
+>    * measurements, 
+>    * LED circuits
 
-#### Workshop Rotation 2
-* Introducing sensors by Venish - why sensors, datasheets, various sensors & applications, one example - presentation for 15 minutes & then activity
+#### Workshop Rotation 2 (feat. Venish)
+> * Introducing to Sensors - Presentation & Activity
+>    * why sensors, 
+>    * datasheets, 
+>    * sensors & applications
 
-#### Industry Talk
-* Presentation by Sergio, Engineering Lead of Ergonomyx Tech. Canada
+#### Industry Talk (feat. Sergio)
+> * Presentation by Sergio, Engineering Lead of Ergonomyx Tech. Canada
 
-##### Social Session
-* Fun filled activities for students by Sargun
+#### Social Session (feat. Sargun)
+> * Fun filled activities for Students 
 
-##### Daily Wrapup
-* 3 things that students learned - 2 questions - 1 thing that was unclear 
+#### Daily Wrapup
+> * 3 things that students learned
+> * 2 questions
+> * 1 thing that was unclear 
 
+## Daily Feedback Form
 
-## Homework
+* [Google Form](https://forms.gle/6QYUvJgdpayUTzVF9)
 
-* [Link to Homework](Link)
+## Important Links
 
-## Tools
-
-* [Slack](https://slack.com/)
-* [Link to Another Tool](Link)
+* [Academy Slack Workspace](https://hightechuacademy.slack.com/)
+* [Academy Zoom Room](https://uvic.zoom.us/j/96555007331?pwd=L0luTWY5ckprWTY4SDR5NHJrNk5XZz09)
+* [Academy MURAL Workspace](https://app.mural.co/t/hightechu8022)
+* [HighTechU TinkerCAD Class](https://www.tinkercad.com/joinclass/LMX28FG7ZT7Q)
+* [HighTechU GitHub](https://github.com/hightechu/hightechu-summer2020) 
 
 ## Resources
 
-* Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-* Another Resource: [URL to Resource](link)
+* [Circuit Exercises](https://github.com/hightechu/hightechu-summer2020/day1/resources/circuit-exercises-day-1)
