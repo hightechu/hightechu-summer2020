@@ -29,7 +29,7 @@ Welcome to the HighTechU Academy! This GitHub repository will be your main entry
 
 ## Resources
 
-* [Play Prelude](http://www.playprelude.com/)
+* [Prelude](http://www.playprelude.com/)
 * [MURAL](https://www.mural.co/)
 * [Zoom](https://zoom.us/meetings)
 * [Slack](https://slack.com/)
