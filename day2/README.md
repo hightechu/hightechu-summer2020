@@ -11,6 +11,7 @@ By the end of today's session, students should be able to...
 * Answer queries from previous day (RE: "Workshop Rotation 3")
 * Configure Digital I/O and Analog input on an Arduino (RE: "Workshop Rotation 3")
 * Interface an Arduino with external circuit elements (RE: "Workshop Rotation 3")
+* Establish communication between Arduino and external component (RE: "Workshop Rotation 4")
 * Identify everyone in their Academy Project Team by Name
 * Demonstrate respectful communication and attentiveness while listening
 * Ask questions to Peers and Instructors 
