@@ -1,6 +1,6 @@
-# HighTechU Summer 2020
+# HighTechU Summer Academy 2020
 
-**HighTechU Summer 2020 - Course Material - Day 3 - {Brief Description}**
+**HighTechU Summer Academy 2020 - Course Material - Day 3 - From Me to We to MVP**
 
 ## Slides
 
@@ -8,10 +8,9 @@
 
 ## Learning Outcomes
 By the end of day 3, stuents should be able to...
-* Establish communication between Arduino and external component using a communication protocol - outcome for the session "Workshop Rotation 4"
-* Brainstorm project ideas before selecting one - outcome for the session "Brainstorming & Project Selection"
-* Identify a Minimum Viable Product for one's project - outcome for the session "MVP oriented design" 
-* Recollect some points about ECE that were shared by professionals and students - outcome for the session "Daily Wrap up"
+* Brainstorm project ideas before selecting one  (RE: "Brainstorming & Project Selection")
+* Identify a Minimum Viable Producty (RE: "MVP oriented design") 
+* Recollect some points about ECE from Industry Talks (RE: "Daily Wrap up")
 
 ## Class Outline for Day 3 (Wednesday)
 
@@ -30,37 +29,57 @@ By the end of day 3, stuents should be able to...
 
 ### Important Activity Details
 
-#### Industry Talk
-* A presentation from Ms. Courtney Parker, an alumnus from ECE UVic. Courtney is currently working in Germany
+#### Industry Talk (feat. Courtney)
+```
+A presentation from Ms. Courtney Parker, an alumnus from ECE UVic. Courtney is currently working in Germany
+```
 
-#### Teamwork Workshop
-* Two hour session by Dr. Dana Damien
+#### Teamwork Workshop (feat. Dana)
+```
+Building Effective Remote Teams
+```
 
-#### The ExperienCE
-* A talk by Ms. Narges Attarmoghaddam, a grad student in ECE. Narges is also the Vice-Chair of IEEE Women in Engineering. 
+#### The ExperienCE (feat. Narges)
+```
+A talk by Ms. Narges Attarmoghaddam, a grad student in ECE. Narges is also the Vice-Chair of IEEE Women in Engineering. 
+```
 
-#### MVP oriented Design
-* Introduce the concept of Minimum Viable Product oriented design - by Aniruddh - a small presentation & then an activity
+#### MVP oriented Design (feat. Aniruddh)
+```
+Introduction to Minimum Viable Product oriented design
+```
 
 #### Design Session 1
-* Student teams start working on their project with the goal to create an MVP by the end of the session 
+```
+Student teams start working on their project with the goal to create an MVP by the end of the session 
+```
 
-#### Social Session 
-* Fun filled activities for students by Mateo
+#### Social Session (feat. Mateo)
+```
+Fun filled activities for students!
+```
 
-#### Daily Wrap up
-* 3 things that students learned about ECE - 2 questions - 1 thing that is unclear
+#### Daily Wrap up (feat. Andrew)
+```
+- 3 things that students learned
+- 2 questions
+- 1 thing that was unclear 
+```
 
-## Homework
+---
 
-* [Link to Homework](Link)
 
-## Tools
+## Daily Feedback Form
 
-* [Slack](https://slack.com/)
-* [Link to Another Tool](Link)
+* [Google Form](https://forms.gle/6QYUvJgdpayUTzVF9)
+
+## Important Links
+
+* [Academy Slack Workspace](https://hightechuacademy.slack.com/)
+* [Academy Zoom Room](https://uvic.zoom.us/j/96555007331?pwd=L0luTWY5ckprWTY4SDR5NHJrNk5XZz09)
+* [Academy MURAL Workspace](https://app.mural.co/t/hightechu8022)
+* [HighTechU TinkerCAD Class](https://www.tinkercad.com/joinclass/LMX28FG7ZT7Q)
+* [HighTechU GitHub](https://github.com/hightechu/hightechu-summer2020) 
 
 ## Resources
 
-* Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-* Another Resource: [URL to Resource](link)
