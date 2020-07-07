@@ -1,6 +1,6 @@
-# HighTechU Summer 2020
+# HighTechU Summer Academy 2020
 
-**HighTechU Summer 2020 - Course Material - Day 5 - Pitch & Demo Day**
+**HighTechU Summer Academy 2020 - Course Material - Day 5 - Pitch & Demo Day**
 
 ## Slides
 
@@ -8,10 +8,10 @@
 
 ## Learning Outcomes
 By the end of today's session, students should be able to...
-* Add a specific outcomes
-* Add another specific outcomes
-* ...
-* Add a final specific outcomes
+* Pitch their Project Idea to an Audience.
+* Demonstrate their Proejct Idea to an Audience.
+
+---
 
 ## Class Outline
 
@@ -27,34 +27,41 @@ By the end of today's session, students should be able to...
 |03:45-04:00| Informal hangout|
 
 
-### Important Activity Details
+### Activity Details
 
-#### The ExperienCE
-* Erik Bedard will share his experiences of the ECE program on campus.
+#### The ExperienCE (feat. Erik)
+```
+Erik Bedard will share his experiences of the ECE program on campus.
+```
 
 #### Pitch/Demo Prep
-* Student teams plan for their final demonstration & product pitch using lean canvas model.
-* 10 minutes for demo & pitch
-
+```
+- Student teams plan for their final demonstration & product pitch using lean canvas model.
+```
 #### Pitch & Demo
-* Each student team gets 10 minutes for pitching & demonstrating. 5 minutes for questions
+```
+Pitching & Demonstrating Product (10+5 mins)
+```
 
 #### Valedictory Ceremony
-* Addresses by a couple of guest speakers
-* A few students sharing their experiences
-* Vote of Thanks by Andrew or Ilamparithi
+```
+- Addresses by a couple of guest speakers
+- A few students sharing their experiences
+- Vote of Thanks
+```
 
+---
 
-## Homework
+## Daily Feedback Form
 
-* [Link to Homework](Link)
+* [Google Form](https://forms.gle/6QYUvJgdpayUTzVF9)
 
-## Tools
+## Important Links
 
-* [Slack](https://slack.com/)
-* [Link to Another Tool](Link)
+* [Academy Slack Workspace](https://hightechuacademy.slack.com/)
+* [Academy Zoom Room](https://uvic.zoom.us/j/96555007331?pwd=L0luTWY5ckprWTY4SDR5NHJrNk5XZz09)
+* [Academy MURAL Workspace](https://app.mural.co/t/hightechu8022)
+* [HighTechU TinkerCAD Class](https://www.tinkercad.com/joinclass/LMX28FG7ZT7Q)
+* [HighTechU GitHub](https://github.com/hightechu/hightechu-summer2020) 
 
 ## Resources
-
-* Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-* Another Resource: [URL to Resource](link)
