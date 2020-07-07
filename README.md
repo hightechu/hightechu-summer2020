@@ -1,8 +1,10 @@
-# HighTechU Summer 2020
+# HighTechU Summer Academy 2020
 
-HighTechU Summer 2020 - Course Material
+HighTechU Summer Academy 2020 - Course Material
 
-Welcome to the HighTechU Academy! This GitHub repository will be your main entry point for this course. You will find everything you need here.
+### Welcome to the HighTechU Virtual Skills Academy! 
+
+This GitHub repository will be your main entry point for this course. You will find everything you need here.
 
 ## Academy Outline / Important Dates
 
