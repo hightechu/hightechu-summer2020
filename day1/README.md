@@ -17,6 +17,8 @@ By the end of day 1, students should be able to...
 * Build a circuit integrating sensors and LEDs/Motors - outcome from the session "Workshop Rotation 2"
 * Express their opinion without inhibition
 
+---
+
 ## Class Outline for Day 1 (Monday)
 
 |Time|Activity|
@@ -34,9 +36,8 @@ By the end of day 1, students should be able to...
 |3:30-3:45|Social Session| 
 |3:45-4:00|Daily Wrapup| 
 
----
 
-### Important Activity Details
+## Activity Details
 
 #### Welcome Ceremony
 ```
@@ -86,6 +87,9 @@ Presentation by Sergio, Engineering Lead of Ergonomyx Tech. Canada
 - 2 questions
 - 1 thing that was unclear 
 ```
+
+---
+
 ## Daily Feedback Form
 
 * [Google Form](https://forms.gle/6QYUvJgdpayUTzVF9)
