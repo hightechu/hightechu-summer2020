@@ -1,6 +1,6 @@
 # HighTechU Summer Academy 2020
 
-**HighTechU Summer Academy 2020 - Course Material - Day 4 - Product Testing & Validation**
+**HighTechU Summer Academy 2020 - Course Material - Day 4 - Testing & Validation**
 
 ## Slides
 
