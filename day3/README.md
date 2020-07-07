@@ -12,7 +12,7 @@ By the end of day 3, stuents should be able to...
 * Identify a Minimum Viable Producty (RE: "MVP oriented design") 
 * Recollect some points about ECE from Industry Talks (RE: "Daily Wrap up")
 
-## Class Outline for Day 3 (Wednesday)
+## Daily Overview
 
 |Time|Activity|
 |:---|:---|
