@@ -1,6 +1,6 @@
-# HighTechU Summer 2020
+# HighTechU Summer Academy 2020
 
-**HighTechU Summer 2020 - Course Material - Day 1 - Introduction to the ECE Academy**
+**HighTechU Summer Academy 2020 - Course Material - Day 1 - Introduction to the ECE Academy**
 
 ## Slides
 
