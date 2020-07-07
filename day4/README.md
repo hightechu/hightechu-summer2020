@@ -15,7 +15,7 @@ By the end of today's session, students should be able to...
 
 ---
 
-## Class Outline
+## Daily Overview
 
 |Time|Activity|
 |:---|:---|
@@ -32,7 +32,7 @@ By the end of today's session, students should be able to...
 |03:30-03:45| Social Session|
 |3:45-4:00|Daily Wrapup|
 
-### Important Activity Details
+### Activity Details
 
 #### The ExperienCE (feat. Poorna)
 ```
