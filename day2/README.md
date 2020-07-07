@@ -18,7 +18,7 @@ By the end of today's session, students should be able to...
 
 ---
 
-## Class Outline for Day 2 (Tuesday)
+## Daily Overview
 
 |Time|Activity|
 |:---|:---|
@@ -76,7 +76,9 @@ Fun filled activities for students!
 ```
 #### Daily Wrap up (feat. Andrew) 
 ```
-* 3 things students have learned - 2 questions - 1 thing that is unclear
+- 3 things that students learned
+- 2 questions
+- 1 thing that was unclear 
 ```
 
 ---
