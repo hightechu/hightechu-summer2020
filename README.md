@@ -8,8 +8,8 @@ Welcome to the HighTechU Academy! This GitHub repository will be your main entry
 
 | Week | Date               | Notes                                                          |
 |------|--------------------|----------------------------------------------------------------|
-| 0    |                    | Fundamentals                                                   |
-| 1    | July 6th 2020     |                      |
+| 0    | June 2020         | Fundamentals                                                   |
+| 1    | July 6th 2020     | Introduction             |
 | 2    | July 7th 2020     |                      |
 | 3    | July 8th 2020     |                      |
 | 4    | July 9th 2020     |                      |
