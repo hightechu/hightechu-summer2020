@@ -19,7 +19,7 @@ By the end of day 1, students should be able to...
 
 ---
 
-## Class Outline for Day 1 (Monday)
+## Daily Overview
 
 |Time|Activity|
 |:---|:---|
