@@ -8,7 +8,7 @@ Welcome to the HighTechU Academy! This GitHub repository will be your main entry
 
 | Week | Date               | Notes                                                          |
 |------|--------------------|----------------------------------------------------------------|
-| 0    | June 2020         | Fundamentals                                                   |
+| 0    | June 2020         | Pre-Academy Fundamentals                                                   |
 | 1    | July 6th 2020     | Introduction to ECE             |
 | 2    | July 7th 2020     |                      |
 | 3    | July 8th 2020     |                      |
