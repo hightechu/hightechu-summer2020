@@ -1,6 +1,6 @@
-# HighTechU Summer 2020
+# HighTechU Summer Academy 2020
 
-**HighTechU Summer 2020 - Course Material - Day 4 - {Brief Description}**
+**HighTechU Summer Academy 2020 - Course Material - Day 4 - Product Testing & Validation**
 
 ## Slides
 
@@ -8,10 +8,12 @@
 
 ## Learning Outcomes
 By the end of today's session, students should be able to...
-* Create test procedures for testing a feature in the design - outcome for the session "Testing and Validation"
-* Validate their design from previous day by performing relevant tests - outcome for the session "Testing and Validation"
-* Prepare a lean canvas model for one's project - outcome for the session "Lean Canvas"
-* Provide feedback about the pilot program - outcome for the session "Daily Wrap up"
+* Create test procedures for testing a feature in the design (RE: "Testing and Validation")
+* Validate their design from previous day by performing relevant tests (RE: "Testing and Validation")
+* Prepare a lean canvas model for one's project (RE: "Lean Canvas")
+* Provide feedback about the pilot program (RE: "Daily Wrap up")
+
+---
 
 ## Class Outline
 
@@ -32,42 +34,62 @@ By the end of today's session, students should be able to...
 
 ### Important Activity Details
 
-#### The ExperienCE
-* Presentation by a current ECE student, Poorna Chander. 
+#### The ExperienCE (feat. Poorna)
+```
+Presentation by a current ECE student, Poorna Chander. 
+```
 
-#### Testing and Validation
-* Answer questions from previous days
-* Introduce the concept of testing a design - Sargun - activity based session - use designs created by student teams for activities
+#### Testing and Validation (feat. Sargun)
+```
+- Answer questions from previous days
+- Introduction the concept of testing a design using designs created by student teams
+```
 
-#### Industry Talk
-* Presentation by Dr. Babak Manouchehrinia, currently working with CfAR.
+#### Industry Talk (feat. Babak)
+```
+Presentation by Dr. Babak Manouchehrinia, currently working with CfAR.
+```
 
 #### Design Session 2
+```
 * Student teams improve their design based on test results 
+```
 
-#### Lean Canvas
-* Introduce the concept of Lean Canvas to student teams - by Venish
+#### Lean Canvas(feat. Venish)
+```
+Introduction the concept of Lean Canvas
+```
 
 #### Design Session 3
-* Student teams almost finalize their design
+```
+Student teams almost finalize their design
+```
 
-#### Social Session
-* Fun filled activities for students by Aniruddh
+#### Social Session (feat. Aniruddh)
+```
+Fun filled activities for students!
+```
 
-#### Daily Wrap up
-* Collect feedback about the program from students
+#### Daily Wrap up (feat. Andrew)
+```
+- 3 things that students learned
+- 2 questions
+- 1 thing that was unclear 
+```
 
+---
 
-## Homework
+## Daily Feedback Form
 
-* [Link to Homework](Link)
+* [Google Form](https://forms.gle/6QYUvJgdpayUTzVF9)
 
-## Tools
+## Important Links
 
-* [Slack](https://slack.com/)
-* [Link to Another Tool](Link)
+* [Academy Slack Workspace](https://hightechuacademy.slack.com/)
+* [Academy Zoom Room](https://uvic.zoom.us/j/96555007331?pwd=L0luTWY5ckprWTY4SDR5NHJrNk5XZz09)
+* [Academy MURAL Workspace](https://app.mural.co/t/hightechu8022)
+* [HighTechU TinkerCAD Class](https://www.tinkercad.com/joinclass/LMX28FG7ZT7Q)
+* [HighTechU GitHub](https://github.com/hightechu/hightechu-summer2020) 
 
 ## Resources
 
-* Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-* Another Resource: [URL to Resource](link)
