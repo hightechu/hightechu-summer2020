@@ -39,43 +39,53 @@ By the end of day 1, students should be able to...
 ### Important Activity Details
 
 #### Welcome Ceremony
-> * Territory Acknowledgement (feat. Andrew)
-> * Welcome Address (feat. Andrew)
-> * About HighTechU (feat. Ulrike)
-> * Inauguration of the Academy (feat. Ulrike)
-> * About the ECE Academy (feat. Ilamparithi)
+```
+- Territory Acknowledgement (feat. Andrew)
+- Welcome Address (feat. Andrew)
+- About HighTechU (feat. Ulrike)
+- Inauguration of the Academy (feat. Ulrike)
+- About the ECE Academy (feat. Ilamparithi)
+```
 
 #### Icebreakers/Team Building (feat. Andrew)
-> * Two Truths & a Lie
-
+```
+Two Truths & a Lie
+```
 #### Importance of Communication (feat. Mateo)
-> * Presentation & Activity
-
+```
+Presentation & Activity
+```
 #### Workshop Rotation 1 (feat. Aniruddh)
-> * Introducion to TinkerCAD Circuits - Presentation & Activity 
->    * circuit diagram, 
->    * breadboard, 
->    * series & parallel connections, 
->    * measurements, 
->    * LED circuits
-
+```
+Introducion to TinkerCAD Circuits - Presentation & Activity 
+- circuit diagram, 
+- breadboard, 
+- series & parallel connections, 
+- measurements, 
+- LED circuits
+```
 #### Workshop Rotation 2 (feat. Venish)
-> * Introducing to Sensors - Presentation & Activity
->    * why sensors, 
->    * datasheets, 
->    * sensors & applications
-
+```
+Introducing to Sensors - Presentation & Activity
+- why sensors, 
+- datasheets, 
+- sensors & applications
+```
 #### Industry Talk (feat. Sergio)
-> * Presentation by Sergio, Engineering Lead of Ergonomyx Tech. Canada
-
+```
+Presentation by Sergio, Engineering Lead of Ergonomyx Tech. Canada
+```
 #### Social Session (feat. Sargun)
-> * Fun filled activities for Students 
+```
+- Fun filled activities! 
+```
 
-#### Daily Wrapup
-> * 3 things that students learned
-> * 2 questions
-> * 1 thing that was unclear 
-
+#### Daily Wrapup (feat. Andrew)
+```
+- 3 things that students learned
+- 2 questions
+- 1 thing that was unclear 
+```
 ## Daily Feedback Form
 
 * [Google Form](https://forms.gle/6QYUvJgdpayUTzVF9)
@@ -90,4 +100,4 @@ By the end of day 1, students should be able to...
 
 ## Resources
 
-* [Circuit Exercises](https://github.com/hightechu/hightechu-summer2020/day1/resources/circuit-exercises-day-1)
+* [Circuit Exercises](https://github.com/hightechu/hightechu-summer2020/tree/master/day1/Workshop_1-IntroToTinkerCAD)
