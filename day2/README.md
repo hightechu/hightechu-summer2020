@@ -49,6 +49,8 @@ Amy Sun will share her experiences about the ECE program.
 - integrate learnings from day 1
 Links for Day 2 TinkerCAD Activities - 
 1. Control the Brightness of the LED - https://www.tinkercad.com/things/3P9MCJyaXcw-controlling-the-brightness-of-led/editel?sharecode=JKpx7rMbYwcQPP7QCVXaDE04VlpO7paaP6t44r2Mraw
+2. LED Using Push Button - https://www.tinkercad.com/things/bcaoMgs5Yb3-pushbutton-led-/editel?sharecode=tTsuGovTg3vjZEf2YaxLbQPpuDKuzyVqDBKb78rAY7I
+3. Motion Detection using PIR Sensor - https://www.tinkercad.com/things/5T0l1hAy75u-motion-detection-using-pir-sensor/editel?sharecode=mwHDAVyb50SSExI2QCEkaaltHLix_Pz6CNlRGX0ClXY
 
 ```
 
