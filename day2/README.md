@@ -47,6 +47,9 @@ Amy Sun will share her experiences about the ECE program.
 - Day 1 follow-up
 - Introduction to Arduino (Digital I/O and Analog Input)
 - integrate learnings from day 1
+Links for Day 2 TinkerCAD Activities - 
+1. Control the Brightness of the LED - https://www.tinkercad.com/things/3P9MCJyaXcw-controlling-the-brightness-of-led/editel?sharecode=JKpx7rMbYwcQPP7QCVXaDE04VlpO7paaP6t44r2Mraw
+
 ```
 
 #### weStar Collaboration Activity (feat. Andrew)
