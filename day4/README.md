@@ -2,6 +2,8 @@
 
 **HighTechU Summer Academy 2020 - Course Material - Day 4 - Testing & Validation**
 
+#### Navigation | [Home](https://hightechu.github.io/e2-accelerator) | [Day 1](https://hightechu.github.io/e2-accelerator/modules/day1/) | [Day 2](https://hightechu.github.io/e2-accelerator/modules/day2/) | [Day 3](https://hightechu.github.io/e2-accelerator/modules/day3/) | [Day 4](https://hightechu.github.io/e2-accelerator/modules/day4/) | [Day 5](https://hightechu.github.io/e2-accelerator/modules/day5/) |
+
 ## Slides
 
 * [Link to Slides](Link)
